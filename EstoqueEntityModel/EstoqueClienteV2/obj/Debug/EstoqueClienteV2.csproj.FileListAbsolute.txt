@@ -8,3 +8,15 @@ C:\Users\rodrigo\Documents\Pos\DM113\SOAPwithWCF_CSharp\EstoqueEntityModel\Estoq
 C:\Users\rodrigo\Documents\Pos\DM113\SOAPwithWCF_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.csproj.CoreCompileInputs.cache
 C:\Users\rodrigo\Documents\Pos\DM113\SOAPwithWCF_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.exe
 C:\Users\rodrigo\Documents\Pos\DM113\SOAPwithWCF_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.pdb
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EstoqueClienteV2.exe.config
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EstoqueClienteV2.exe
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EstoqueClienteV2.pdb
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EntityFramework.dll
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EstoqueEntityModel.dll
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EntityFramework.xml
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.exe
+C:\Users\rodrigo\Documents\Pos\DM113\LibraryProjeto\SOAPwithWCFLibrary_CSharp\EstoqueEntityModel\EstoqueClienteV2\obj\Debug\EstoqueClienteV2.pdb
